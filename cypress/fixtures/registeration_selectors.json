@@ -1,0 +1,10 @@
+{
+    "create_account": ".e1a5eqzl0 > a",
+    "parent_check_box": ":nth-child(1) > [data-cy=\"roles-input\"]",
+    "less_than_25_checkbox": ":nth-child(1) > [data-cy=\"ageRange-input\"]",
+    "yes_check_box":":nth-child(1) > [data-cy=\"insideEgy-input\"]","submit":"[data-cy=\"submitButton\"]","firstName":"[data-cy=\"firstName-input\"]","secondName":"[data-cy=\"lastName-input\"]",
+    "phoneNumber":"[data-cy=\"mobileNumber-input\"]","password":"[data-cy=\"password-input\"]","passwordConfirmation":"[data-cy=\"passwordConfirmation-input\"]",
+    "confirm":".css-ru54my > .css-36p5w","using_phone_number":".css-1tllzea","agreeOn":".css-ru54my > .css-36p5w","createAccount":"[data-cy=\"submitButton\"]",
+    "maleCheckBox":":nth-child(1) > [data-cy=\"gender-input\"]","femaleCheckBox":":nth-child(2) > [data-cy=\"gender-input\"]"
+}
+  
